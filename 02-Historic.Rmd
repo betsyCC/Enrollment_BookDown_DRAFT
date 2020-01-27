@@ -1,0 +1,93 @@
+# Historical Student Data Book Tables – All Semesters {-}
+
+<!-- {#historic} -->
+
+# Enrollment
+
+## Undergraduate and Graduate Enrollment
+
+### ENRL_0019_HIST_Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College
+
+### ENRL_0020_HIST_Undergraduate Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+
+### ENRL_0021_HIST_Graduate and First-professional Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+
+### ENRL_0022_HIST_Total Enrollment by Undergraduate and Graduate Level, Degree/Nondegree Status, and College
+
+### ENRL_0023_HIST_Total Enrollment by Undergraduate and Graduate Level, Gender and College
+
+### ENRL_0024_HIST_Full-Time Equivalent (FTE) Student Enrollment by Undergraduate and Graduate Level, and College
+
+## Enrollment by Degree Pursued
+
+### ENRL_0025_HIST_Total Enrollment by Undergraduate and Graduate Level, Degree Pursued and College
+
+
+
+# Admissions (New Students)
+
+## Admissions to Undergraduate and Graduate Degree Programs by College
+
+## Undergraduate Advanced Standing Transfers by Type of Sending College
+
+## Admissions by Full-/Part-time Status and Gender
+
+### ADMS_0014_HIST_Total New Undergraduate and Graduate Students by Full-time/Part-time Attendance, Gender and College
+
+### ADMS_0015_HIST_First-time Freshmen by Full-time/Part-time Attendance, Gender and College
+
+### ADMS_0016_HIST_Undergraduate Advanced Standing Transfers by Full-time/Part-time Attendance, Gender and College
+
+### ADMS_0017_HIST_Total New Undergraduate Students by Full-time/Part-time Attendance, Gender and College
+
+### ADMS_0018_HIST_Total New Graduate and First-professional Students by Full-time/Part-time Attendance, Gender and College
+
+## Admissions by Degree Pursued
+
+### ADMS_0019_HIST_First-time Freshmen by Degree Pursued, Full-time/Part-time Attendance, and College
+
+### ADMS_0020_HIST_Undergraduate Advanced Standing Transfers by Degree Pursued, Full-time/Part-time Attendance, and College
+
+### ADMS_0021_HIST_Total New Undergraduate Students by Degree Pursued, Full-time/Part-time Attendance, and College
+
+### ADMS_0022_HIST_Total New Graduate and First-professional Students by Degree Pursued, Full-time/Part-time Attendance and College
+
+
+
+# Degrees Granted
+
+## Degrees Granted by Level
+
+### DEGR_0008_HIST_Summary of Degrees Granted by College
+
+### DEGR_0009_HIST_Certificate and Associate Degrees Granted by College
+
+### DEGR_0010_HIST_Baccalaureate Degrees Granted by College
+
+### DEGR_0011_HIST_Master’s Degrees Granted by College
+
+### DEGR_0012_HIST_Advanced Certificates, Doctoral Degrees and First-professional Degrees Granted by College
+
+## Degrees Granted by Race/Ethnicity
+
+### DEGR_0013_HIST_Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
+
+
+
+# Race/Ethnicity
+
+## Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
+
+## Enrollment by Race/Ethnicity
+
+### ENRL_0026_HIST_Total Enrollment by Race/Ethnicity and College: Percentages
+
+### ENRL_0027_HIST_Total Enrollment by Undergraduate and Graduate Level, Race/Ethnicity and College: Percentages
+
+## Racial/Ethnic Composition of New Students
+
+### ENRL_0028_HIST_First-time Freshmen Enrollment by Race/Ethnicity and College: Percentages
+
+### ENRL_0029_HIST_Advanced Standing Transfer Enrollment by Race/Ethnicity and College: Percentages
+
+
