@@ -39,6 +39,7 @@
 }
 #TOC > ul > li > a {
   color: #ffffff;
+  padding: 10px;
 }
 #TOC > ul > li:hover:after {
   content: '';
@@ -89,7 +90,7 @@
   filter: none;
   display: block;
   line-height: 120%;
-  padding: 10px;
+  padding: 20px;
   color: #ffffff;
 }
 #TOC .has-sub ul li:hover a {

@@ -1,4 +1,4 @@
-# Enrollment BookDown DRAFT
+# Enrollment bookdown DRAFT
  
 This electronic book is a draft for testing out options for posting accessible data tables and reports for [CUNY's Office of Institutional Research](https://www.cuny.edu/about/administration/offices/oira/institutional/).  
 

@@ -1,4 +1,4 @@
-# Current Student Data Book By Subject {-}
+# <strong>Current Student Data Book By Subject</strong> {-}
 
 <!-- {#current} -->
 
@@ -46,25 +46,25 @@
 
 ## Admissions by Full-/Part-time Status and Gender
 
-### ADMS_0003_Total New Undergraduate and Graduate Students by Full-time/Part-time Attendance, Gender and College
+### Total New Undergraduate and Graduate Students by Full-time/Part-time Attendance, Gender and College
 
-### ADMS_0004_First-time Freshmen by Full-time/Part-time Attendance, Gender and College
+### First-time Freshmen by Full-time/Part-time Attendance, Gender and College
 
-### ADMS_0005_Undergraduate Advanced Standing Transfers by Full-time/Part-time Attendance, Gender and College
+### Undergraduate Advanced Standing Transfers by Full-time/Part-time Attendance, Gender and College
 
-### ADMS_0006_Total New Undergraduate Students by Full-time/Part-time Attendance, Gender and College
+### Total New Undergraduate Students by Full-time/Part-time Attendance, Gender and College
 
-### ADMS_0007_Total New Graduate and First-professional Students by Full-time/Part-time Attendance, Gender and College
+### Total New Graduate and First-professional Students by Full-time/Part-time Attendance, Gender and College
 
 ## Admissions by Degree Pursued
 
-### ADMS_0008_First-time Freshmen by Degree Pursued, Full-time/Part-time Attendance, and College
+### First-time Freshmen by Degree Pursued, Full-time/Part-time Attendance, and College
 
-### ADMS_0009_Undergraduate Advanced Standing Transfers by Degree Pursued, Full-time/Part-time Attendance, and College
+### Undergraduate Advanced Standing Transfers by Degree Pursued, Full-time/Part-time Attendance, and College
 
-### ADMS_0010_Total New Undergraduate Students by Degree Pursued, Full-time/Part-time Attendance, and College
+### Total New Undergraduate Students by Degree Pursued, Full-time/Part-time Attendance, and College
 
-### ADMS_0011_Total New Graduate and First-professional Students by Degree Pursued, Full-time/Part-time Attendance, and College
+### Total New Graduate and First-professional Students by Degree Pursued, Full-time/Part-time Attendance, and College
 
 
 
@@ -72,23 +72,23 @@
 
 ## Degrees Granted by Level
  
-### DEGR_0001_Summary of Degrees Granted by College
+### Summary of Degrees Granted by College
 
-### DEGR_0002_Certificate and Associate Degrees Granted by College
+### Certificate and Associate Degrees Granted by College
 
-### DEGR_0003_Baccalaureate Degrees Granted by College
+### Baccalaureate Degrees Granted by College
 
-### DEGR_0004_Master’s Degrees Granted by College
+### Master’s Degrees Granted by College
 
-### DEGR_0005_Advanced Certificates, Doctoral Degrees and First-professional Degrees Granted by College
+### Advanced Certificates, Doctoral Degrees and First-professional Degrees Granted by College
 
 ## Degrees Granted by Race/Ethnicity
 
-### DEGR_0006_Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
+### Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
 
 ## Degrees Conferred – Trends
 
-### DEGR_0007_Degrees Conferred at The City University of New York
+### Degrees Conferred at The City University of New York
 
 
 
@@ -98,7 +98,7 @@
 
 ## Undergraduate and Graduate Enrollment
 
-### ENRL_0001_Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College
+### Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College {-}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -342,110 +342,110 @@ data3$Total <- str_replace_all(data3$Total, ".+NA", "0")
 # ---------------------------------------------------------------------------- #
 ```
 
-###### Accessibility Instructions: This table contains `r table_title`.  Footnotes display immediately below the table. 
+<p class="accessibility_instructions">Accessibility Instructions: This table contains `r table_title`.  Footnotes display immediately below the table.</p>
 
 ```{r output}
-t <- datatable(data3, id="Enrollment Test", caption = table_title, 
+t <- datatable(data3, id="Enrollment Test", caption = NULL, 
                options = list(responsive = TRUE, rowHeaders = TRUE, asHTML = TRUE))
 #writeLines(as.character(t), "S:/R/Enrollment_datatable.html")
 #cat(as.character(t))
 t
 ```
 
-##### Note: Enrollment for Guttman, Kingsborough, and LaGuardia are preliminary; final enrollment will be available in March.
+Note: Enrollment for Guttman, Kingsborough, and LaGuardia are preliminary; final enrollment will be available in March.
 
 
-### ENRL_0002_Undergraduate Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+### Undergraduate Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College {-}
 
-### ENRL_0003_Graduate and First-professional Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+### Graduate and First-professional Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College {-}
 
-### ENRL_0004_Total Enrollment by Undergraduate and Graduate Level, Degree/Nondegree Status, and College
+### Total Enrollment by Undergraduate and Graduate Level, Degree/Nondegree Status, and College {-}
 
-### ENRL_0005_Total Enrollment by Undergraduate and Graduate Level, Gender and College
+### Total Enrollment by Undergraduate and Graduate Level, Gender and College {-}
 
-### ENRL_0006_Full-Time Equivalent (FTE) Student Enrollment by Undergraduate and Graduate Level, and College
+### Full-Time Equivalent (FTE) Student Enrollment by Undergraduate and Graduate Level, and College {-}
 
 ## Enrollment by Degree Pursued
 
-### ENRL_0007_Total Enrollment by Undergraduate and Graduate Level, Degree Pursued and College
+### Total Enrollment by Undergraduate and Graduate Level, Degree Pursued and College {-}
 
 ## Enrollment by Residency and Age
 
-### ENRL_0045_Total Enrollment by Residency and College
+### Total Enrollment by Residency and College {-}
 
-### ENRL_0046_Undergraduate Enrollment by Age and College
+### Undergraduate Enrollment by Age and College {-}
 
 ## Five-year Trends in Total Enrollment
 
-### ENRL_0008_Five-year Trends in Total Fall Enrollment – Total University
+### Five-year Trends in Total Fall Enrollment – Total University {-}
 
-### ENRL_0009_Five-year Trends in Total Fall Enrollment – Senior and Comprehensive Colleges
+### Five-year Trends in Total Fall Enrollment – Senior and Comprehensive Colleges {-}
 
-### ENRL_0010_Five-year Trends in Total Fall Enrollment – Community Colleges
+### Five-year Trends in Total Fall Enrollment – Community Colleges {-}
 
 ## Five-year Trends in Total Fall Enrollment, by College
 
 ### Senior Colleges
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Baruch College
+#### Five-year Trends in Total Fall Enrollment – Baruch College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Brooklyn College
+#### Five-year Trends in Total Fall Enrollment – Brooklyn College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – City College
+#### Five-year Trends in Total Fall Enrollment – City College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Hunter College
+#### Five-year Trends in Total Fall Enrollment – Hunter College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – John Jay College of Criminal Justice
+#### Five-year Trends in Total Fall Enrollment – John Jay College of Criminal Justice {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Lehman College
+#### Five-year Trends in Total Fall Enrollment – Lehman College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Medgar Evers College
+#### Five-year Trends in Total Fall Enrollment – Medgar Evers College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – New York City College of Technology
+#### Five-year Trends in Total Fall Enrollment – New York City College of Technology {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Queens College
+#### Five-year Trends in Total Fall Enrollment – Queens College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – College of Staten Island
+#### Five-year Trends in Total Fall Enrollment – College of Staten Island {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – York College
+#### Five-year Trends in Total Fall Enrollment – York College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Graduate School and University Center
+#### Five-year Trends in Total Fall Enrollment – Graduate School and University Center {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – School of Journalism
+#### Five-year Trends in Total Fall Enrollment – School of Journalism {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – School of Professional Studies
+#### Five-year Trends in Total Fall Enrollment – School of Professional Studies {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Labor & Urban Studies
+#### Five-year Trends in Total Fall Enrollment – Labor & Urban Studies {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Public Health
+#### Five-year Trends in Total Fall Enrollment – Public Health {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Law School
+#### Five-year Trends in Total Fall Enrollment – Law School {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Medical School
+#### Five-year Trends in Total Fall Enrollment – Medical School {-}
 
 ### Community Colleges
  
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Borough of Manhattan Community College
+#### Five-year Trends in Total Fall Enrollment – Borough of Manhattan Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Bronx Community College
+#### Five-year Trends in Total Fall Enrollment – Bronx Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Guttman Community College
+#### Five-year Trends in Total Fall Enrollment – Guttman Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Hostos Community College
+#### Five-year Trends in Total Fall Enrollment – Hostos Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Kingsborough Community College
+#### Five-year Trends in Total Fall Enrollment – Kingsborough Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – LaGuardia Community College
+#### Five-year Trends in Total Fall Enrollment – LaGuardia Community College {-}
 
-#### ENRL_0011_Five-year Trends in Total Fall Enrollment – Queensborough Community College
+#### Five-year Trends in Total Fall Enrollment – Queensborough Community College {-}
 
 ## Long-term Trends in Total Fall Enrollment
 
-### ENRL_0012_Long-term Trends in Fall Enrollment: Total University
+### Long-term Trends in Fall Enrollment: Total University {-}
 
-### ENRL_0013_Long-term Trends in Fall Enrollment: First-time Freshmen
+### Long-term Trends in Fall Enrollment: First-time Freshmen {-}
 
-### ENRL_0014_Long-term Trends in Fall Enrollment: Transfers
+### Long-term Trends in Fall Enrollment: Transfers {-}
 
 
 
@@ -453,7 +453,7 @@ t
 
 ## kableExtra with advanced styling
 
-##### `r table_title`
+##### `r table_title` {-}
 
 ```{r kableExtra_advanced_2, results='asis'}
 
@@ -477,7 +477,7 @@ data2 %>%
 
 ## kableExtra with advanced styling part 2
 
-##### `r table_title`
+##### `r table_title` {-}
 
 ```{r kableExtra_advanced, results='asis'}
 
@@ -555,6 +555,8 @@ data %>%
 ```
 
 ## htmlTable
+
+### `r table_title` {-}
 
 ```{r}
 htmlTable(data, rnames=FALSE, #total=TRUE,
