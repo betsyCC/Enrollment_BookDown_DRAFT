@@ -1,15 +1,37 @@
 bookdown::gitbook:
   css: main.css
+  table_css: TRUE
   split_by: section
   config:
     toc:
-      collapse: subsection
+      collapse: section
+      scroll_highlight: yes
       before: |
         <li><a href="./">Enrollment_bookdown_DRAFT</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/betsyCC/Enrollment_BookDown_DRAFT/edit/master/%s 
-    download: ["pdf", "epub"]
+    toolbar:
+      position: fixed
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: yes
+      github: yes
+      twitter: yes
+      linkedin: yes
+      weibo: no
+      instapaper: no
+      vk: no
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: yes
+    download: no
+    # download: ["pdf", "epub"]
+# bookdown::html_chapters:
+  # css: [main.css, toc_CUNY.css]
 # bookdown::pdf_book:
   # includes:
     # in_header: preamble.tex

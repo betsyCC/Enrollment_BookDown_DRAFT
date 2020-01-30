@@ -571,25 +571,215 @@ htmlTable(data, rnames=FALSE, #total=TRUE,
 
 # Race/Ethnicity – Fall 2018
 
+### Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages {-}
 
+## Enrollment by Race/Ethnicity
+
+### Total Enrollment by Race/Ethnicity and College: Percentages {-}
+
+### Total Enrollment by Undergraduate and Graduate Level, Race/Ethnicity and College: Percentages {-}
+
+### Total Enrollment by Race/Ethnicity, Gender and College {-}
+
+### Total Enrollment by Race/Ethnicity, Gender and College (Percentages) {-}
+
+### Undergraduate Enrollment by Race/Ethnicity, Gender, and College {-}
+
+### Undergraduate Enrollment by Race and Gender (Percentages) {-}
+
+### Graduate Enrollment by Race/Ethnicity and Gender {-}
+
+### Graduate Enrollment by Race/Ethnicity and Gender (Percentages) {-}
+
+## Racial/Ethnic Composition of New Students
+
+### First-time Freshmen Enrollment by Race/Ethnicity and College: Percentages {-}
+
+### Advanced Standing Transfer Enrollment by Race/Ethnicity and College: Percentages {-}
 
 
 # Retention & Graduation – Fall 2018
 
+<h2>**System Retention and Graduation Rates**</h2>
+
+**System Retention Rates** are calculated as the percentage who are still enrolled at any CUNY college in the subsequent fall term(s) and have not yet earned a degree. **System Graduation Rates** are calculated as the percentage earning a degree at any CUNY college any time prior to the start of the subsequent fall term(s). Students earning a degree, even if lower than that originally pursued, are counted for that degree and not as still enrolled, even if they are still enrolled in the subsequent fall term. Students who have earned both an associate and a baccalaureate degree within a given time period are counted for the baccalaureate degree only.
+
+## Ten-Year Retention and Graduation Rates of Entering Students – Associate Entrants - Total University
+
+#### System Retention and Graduation Rates of Full-time First-time Freshmen in Associate Programs by Year of Entry: Total University {-}
+
+#### System Retention and Graduation Rates of Full-time Transfers in Associate Programs by Year of Entry: Total University {-}
+
+## System Retention and Grad Rates of All Full-time, First-time Freshmen in Associate Programs by Year of Entry: Colleges
+
+### Comprehensive Colleges
+
+#### John Jay College of Criminal Justice {-}
+
+#### Medgar Evers College {-}
+
+#### New York City College of Technology {-}
+
+#### College of Staten Island {-}
+
+### Community Colleges
+
+#### Borough of Manhattan Community College {-}
+
+#### Guttman Community College {-}
+
+#### Bronx Community College {-}
+
+#### Hostos Community College {-}
+
+#### Kingsborough Community College {-}
+
+#### LaGuardia Community College {-}
+
+#### Queensborough Community College {-}
+
+## Ten-Year Retention and Graduation Rates of Entering Students – Baccalaureate Entrants - Total University
+
+#### System Retention and Graduation Rates of Full-time First-time Freshmen in Baccalaureate Programs by Year of Entry:* Total University {-}
+
+#### System Retention and Graduation Rates of Full-time Transfers in Baccalaureate Programs by Year of Entry:* Total University {-}
+
+## System Retention and Grad Rates of All Full-time, First-time Freshmen in Baccalaureate Programs by Year of Entry: Colleges
+
+### Comprehensive Colleges
+
+#### John Jay College of Criminal Justice {-}
+
+#### Medgar Evers College {-}
+
+#### New York City College of Technology {-}
+
+#### College of Staten Island College {-}
+
+### Senior Colleges
+
+#### Baruch College {-}
+
+#### Brooklyn College {-}
+
+#### City College {-}
+
+#### Hunter College {-}
+
+#### Lehman College {-}
+
+#### Queens College {-}
+
+#### York College {-}
 
 
+# SEEK and CD – Fall 2018
 
-# SEEK/College Discovery – Fall 2018
+<h2>**Search for Education, Elevation, and Knowledge** and **College Discovery**</h2>
 
+**SEEK (Search for Education, Elevation, and Knowledge)** and **CD (College Discovery)** are the two City University higher education opportunity programs, designed to assist high potential, low income students who otherwise might not be able to pursue a college degree because they are not academically well prepared for college level work. Since the late sixties, SEEK and CD have graduated thousands of highly motivated and talented students. Found on each of the seventeen undergraduate campuses, SEEK and CD offer an array of counseling and academic support initiatives to students who meet the University and New York State guidelines for Program admission.
 
+## Enrollment by Race/Ethnicity
+
+### Total SEEK/CD Enrollment by Race/Ethnicity, Gender and College {-}
+
+### Total SEEK/CD Enrollment by Race/Ethnicity, Gender and College: Percentages {-}
+
+## Long-term Trends in Total Enrollment
+
+### Trends in SEEK/CD Enrollment {-}
+
+### Trends in SEEK/CD First-time Freshmen Enrollment {-}
+
+### Trends in SEEK/CD Enrollment in Associate Programs {-}
+
+### Trends in SEEK/CD Enrollment in Baccalaureate Programs {-}
+
+### Trends in SEEK/CD First-time Freshmen Enrollment in Associate Programs {-}
+
+### Trends in SEEK/CD First-time Freshmen Enrollment in Baccalaureate Programs {-}
+
+## Institution Retention and Graduation Rates
+
+### Institution Retention and Graduation Rates of Special Program, Full-time First-time Freshmen in Associate Programs by Year of Entry: Total University {-}
+
+### Institution Retention and Graduation Rates of Special Program, Full-time First-time Freshmen in Baccalaureate Programs by Year of Entry: Total University {-}
+
+## System Retention and Graduation Rates
+
+### System Retention and Graduation Rates of Special Program, Full-time First-time Freshmen in Associate Programs by Year of Entry: Total University {-}
+
+### System Retention and Graduation Rates of Special Program, Full-time First-time Freshmen in Baccalaureate Programs by Year of Entry: Total University {-}
 
 
 # STEM Enrollment & Degrees Granted – Fall 2017/2016-2017
 
+## Enrollment
 
+### Trends
+
+#### Ten-Year Trends in Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines {-}
+
+### by College
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by College: Fall 2017 {-}
+
+### by Degree Pursued
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Degree Pursued: Fall 2017 {-}
+
+### by Race/Ethnicity
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Race/Ethnicity: Fall 2017 {-}
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: Fall 2017 {-}
+
+### by Gender
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Gender: Fall 2017 {-}
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Gender: Fall 2017 {-}
+
+#### Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Gender and Race/Ethnicity: Fall 2017 {-}
+
+## Degrees Granted
+
+### Trends
+
+#### Ten-Year Trends in Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines {-}
+
+#### Ten-Year Trends in Baccalaureate Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines {-}
+
+#### Ten-Year Trends in Associate Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines {-}
+
+### by College
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines, by College: 2016-2017 {-}
+
+### by Degree Pursued
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Degree: 2016-2017 {-}
+
+### by Race/Ethnicity
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Race/Ethnicity: 2016-2017 {-}
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: 2016-2017 {-}
+
+### by Gender
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Gender: 2016-2017 {-}
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Gender: 2016-2017 {-}
+
+#### Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Gender and Race/Ethnicity: 2016-2017 {-}
 
 
 # Student Profile / Demographic Information – Fall 2016
 
+## Fall 2018 Profile of CUNY Undergraduates 
 
+## Country of Birth of Foreign Born Undergraduates: Fall 2017
+
+## Ancestry of Undergraduates: Fall 2017
 

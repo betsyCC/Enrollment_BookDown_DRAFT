@@ -8,9 +8,11 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: Enrollment_BookDown_DRAFT
-description: "This electronic book is a draft for testing out options for posting accessible data tables and reports for CUNY's Office of Institutional Research.  This site was created using RStudio and bookdown using the default settings in the [Minimal Book Example](https://github.com/rstudio/bookdown-demo), as a base and then customizing it to be more in line with CUNY's branding by altering the CSS."
+url: https\://betsycc.github.io/OIRA_Book_Reports/
+github-repo: betsyCC/OIRA_Book_Reports
 cover-image: "square_blue.jpg"
+favicon: "square_blue_66X_icon.ico"
+description: "This electronic book is a draft for testing out options for posting accessible data tables and reports for CUNY's Office of Institutional Research.  This site was created using RStudio and bookdown using the default settings in the [Minimal Book Example](https://github.com/rstudio/bookdown-demo), as a base and then customizing it to be more in line with CUNY's branding by altering the CSS."
 # always_allow_html: true  (NOT NEEDED - PDF and EPUB outputs don't work with table options)
 ---
 

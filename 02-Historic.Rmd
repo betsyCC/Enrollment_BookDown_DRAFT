@@ -6,51 +6,55 @@
 
 ## Undergraduate and Graduate Enrollment
 
-### Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College
+### Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College {-}
 
-### Undergraduate Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+### Undergraduate Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College {-}
 
-### Graduate and First-professional Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College
+### Graduate and First-professional Enrollment by Degree/Non-degree Status, Full-time/Part-time Attendance, and College {-}
 
-### Total Enrollment by Undergraduate and Graduate Level, Degree/Nondegree Status, and College
+### Total Enrollment by Undergraduate and Graduate Level, Degree/Nondegree Status, and College {-}
 
-### Total Enrollment by Undergraduate and Graduate Level, Gender and College
+### Total Enrollment by Undergraduate and Graduate Level, Gender and College {-}
 
-### Full-Time Equivalent (FTE) Student Enrollment by Undergraduate and Graduate Level, and College
+### Full-Time Equivalent (FTE) Student Enrollment by Undergraduate and Graduate Level, and College {-}
 
 ## Enrollment by Degree Pursued
 
-### Total Enrollment by Undergraduate and Graduate Level, Degree Pursued and College
+### Total Enrollment by Undergraduate and Graduate Level, Degree Pursued and College {-}
 
 
 
 # Admissions (New Students)
 
-## Admissions to Undergraduate and Graduate Degree Programs by College
+## Admissions by College
 
-## Undergraduate Advanced Standing Transfers by Type of Sending College
+### Admissions to Undergraduate and Graduate Degree Programs by College {-}
+
+## Undergraduate Advanced Standing Transfers
+
+### Undergraduate Advanced Standing Transfers by Type of Sending College {-}
 
 ## Admissions by Full-/Part-time Status and Gender
 
-### Total New Undergraduate and Graduate Students by Full-time/Part-time Attendance, Gender and College
+### Total New Undergraduate and Graduate Students by Full-time/Part-time Attendance, Gender and College {-}
 
-### First-time Freshmen by Full-time/Part-time Attendance, Gender and College
+### First-time Freshmen by Full-time/Part-time Attendance, Gender and College {-}
 
-### Undergraduate Advanced Standing Transfers by Full-time/Part-time Attendance, Gender and College
+### Undergraduate Advanced Standing Transfers by Full-time/Part-time Attendance, Gender and College {-}
 
-### Total New Undergraduate Students by Full-time/Part-time Attendance, Gender and College
+### Total New Undergraduate Students by Full-time/Part-time Attendance, Gender and College {-}
 
-### Total New Graduate and First-professional Students by Full-time/Part-time Attendance, Gender and College
+### Total New Graduate and First-professional Students by Full-time/Part-time Attendance, Gender and College {-}
 
 ## Admissions by Degree Pursued
 
-### First-time Freshmen by Degree Pursued, Full-time/Part-time Attendance, and College
+### First-time Freshmen by Degree Pursued, Full-time/Part-time Attendance, and College {-}
 
-### Undergraduate Advanced Standing Transfers by Degree Pursued, Full-time/Part-time Attendance, and College
+### Undergraduate Advanced Standing Transfers by Degree Pursued, Full-time/Part-time Attendance, and College {-}
 
-### Total New Undergraduate Students by Degree Pursued, Full-time/Part-time Attendance, and College
+### Total New Undergraduate Students by Degree Pursued, Full-time/Part-time Attendance, and College {-}
 
-### Total New Graduate and First-professional Students by Degree Pursued, Full-time/Part-time Attendance and College
+### Total New Graduate and First-professional Students by Degree Pursued, Full-time/Part-time Attendance and College {-}
 
 
 
@@ -58,36 +62,38 @@
 
 ## Degrees Granted by Level
 
-### Summary of Degrees Granted by College
+### Summary of Degrees Granted by College {-}
 
-### Certificate and Associate Degrees Granted by College
+### Certificate and Associate Degrees Granted by College {-}
 
-### Baccalaureate Degrees Granted by College
+### Baccalaureate Degrees Granted by College {-}
 
-### Master’s Degrees Granted by College
+### Master’s Degrees Granted by College {-}
 
-### Advanced Certificates, Doctoral Degrees and First-professional Degrees Granted by College
+### Advanced Certificates, Doctoral Degrees and First-professional Degrees Granted by College {-}
 
-## Degrees Granted by Race/Ethnicity
+## Degrees Granted by Race/Ethnicity and Gender
 
-### Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
+### Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages {-}
 
 
 
 # Race/Ethnicity
 
-## Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages
+## Degrees Granted by Race/Ethnicity and Gender
+
+### Summary of Degrees Granted by Race/Ethnicity and Gender: Percentages {-}
 
 ## Enrollment by Race/Ethnicity
 
-### Total Enrollment by Race/Ethnicity and College: Percentages
+### Total Enrollment by Race/Ethnicity and College: Percentages {-}
 
-### Total Enrollment by Undergraduate and Graduate Level, Race/Ethnicity and College: Percentages
+### Total Enrollment by Undergraduate and Graduate Level, Race/Ethnicity and College: Percentages {-}
 
 ## Racial/Ethnic Composition of New Students
 
-### First-time Freshmen Enrollment by Race/Ethnicity and College: Percentages
+### First-time Freshmen Enrollment by Race/Ethnicity and College: Percentages {-}
 
-### Advanced Standing Transfer Enrollment by Race/Ethnicity and College: Percentages
+### Advanced Standing Transfer Enrollment by Race/Ethnicity and College: Percentages {-}
 
 
