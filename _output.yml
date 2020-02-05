@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  css: main.css
+  css: css/main.css
   table_css: TRUE
   split_by: section
   config:

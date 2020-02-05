@@ -108,6 +108,7 @@ library(DT)
 library(magrittr)
 library(stringr)
 library(htmlTable)
+library(webshot)
 ```
 
 ```{r data}
