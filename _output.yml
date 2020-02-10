@@ -10,7 +10,7 @@ bookdown::gitbook:
         <li><a href="./">Enrollment_bookdown_DRAFT</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/betsyCC/Enrollment_BookDown_DRAFT/edit/master/%s 
+    edit: https://github.com/betsyCC/Enrollment_BookDown_DRAFT/edit/master/%s
     toolbar:
       position: fixed
     search: yes
@@ -31,7 +31,9 @@ bookdown::gitbook:
     download: no
     # download: ["pdf", "epub"]
 # bookdown::html_chapters:
-  # css: [main.css, toc_CUNY.css]
+  # css: css/main.css
+  # df_print: kable
+  # number_sections: yes
 # bookdown::pdf_book:
   # includes:
     # in_header: preamble.tex
