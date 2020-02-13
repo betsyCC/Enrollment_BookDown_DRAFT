@@ -109,6 +109,7 @@ library(magrittr)
 library(stringr)
 library(htmlTable)
 library(webshot)
+library(accessibleshiny)
 ```
 
 ```{r data}
@@ -156,7 +157,7 @@ data[c(19, 27, 28),1] <- c("SUBTOTAL SENIOR COLLEGES","SUBTOTAL COMMUNITY COLLEG
 table_title <- "Total Enrollment by Undergraduate and Graduate Level, Full-time/Part-time Attendance, and College - Fall 2018"
 ```
 
-```{r datatable, include=FALSE}
+```{r datatable, include=FALSE, eval=FALSE}
 #'//////////////////////////////////////////////////////////////////////////////
 #' FILE: datatable.R
 #' AUTHOR: David Ruvolo
